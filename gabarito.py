@@ -2,14 +2,13 @@
 # Passo 1: Entrar no sistema da empresa 
     # https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
-
-
 # pyautogui.write -> escrever um texto
 # pyautogui.press -> apertar 1 tecla
 # pyautogui.click -> clicar em algum lugar da tela
-# pyautogui.hotkey -> combinação de teclas
+# pyautogui.hotkey -> combinação de teclas ("ctrl" + "c")
 
 # abrir o navegador (chrome)
+
 
 
 # entrar no link 
