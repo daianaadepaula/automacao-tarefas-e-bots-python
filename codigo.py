@@ -1,5 +1,6 @@
 import pyautogui
 import time
+import pandas
 
 pyautogui.PAUSE = 7.5
 
@@ -18,4 +19,8 @@ pyautogui.press("tab")
 pyautogui.write("senhaAqui")
 pyautogui.click(x=671, y=572)	
 time.sleep(12)
+
+tabela = pandas.read_csv("produtos.csv")
+print(tabela)
+
 
