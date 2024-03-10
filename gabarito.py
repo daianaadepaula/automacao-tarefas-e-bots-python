@@ -4,16 +4,16 @@
 
 # pyautogui.write -> escrever um texto
 # pyautogui.press -> apertar 1 tecla
-# pyautogui.click -> clicar em algum lugar da tela
+# pyautogui.click -> clicar em algum lugar da tela (x, y)
+# pyautogui.click - (x, y, clicks=1) ou (x, y, button="right")
 # pyautogui.hotkey -> combinação de teclas ("ctrl" + "c")
 
 # abrir o navegador (chrome)
 
-
-
 # entrar no link 
 # "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
 
+# dar uma pausa um pouco maior (5 segundos)
 
 # Passo 2: Fazer login
 # selecionar o campo de email
